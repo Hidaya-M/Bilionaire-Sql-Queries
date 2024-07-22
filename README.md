@@ -1,2 +1,2 @@
 # Bilionaire-Sql-Queries
-Exploration Bilionaires Dataset
+Exploring Bilionaires Dataset
